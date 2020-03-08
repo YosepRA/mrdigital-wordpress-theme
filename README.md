@@ -1,0 +1,1 @@
+# Mr Digital - WordPress theme from scratch
